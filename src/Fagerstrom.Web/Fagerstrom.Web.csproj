@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\fagerstrom - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\fagerstrom - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\fagestrom - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\fagestrom - Web Deploy.pubxml" />
     <None Include="Properties\Settings.settings">
