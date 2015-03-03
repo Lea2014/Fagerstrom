@@ -37,10 +37,3 @@ namespace Fagerstrom.Core
     }
 }
 
-// create a new website called fagerstrom .dev using proper IIS to fix issue.
-
-/*
-
- 1 - Createw 
-
-*/
